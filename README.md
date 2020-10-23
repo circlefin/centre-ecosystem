@@ -16,6 +16,7 @@ An example entry is shown below:
   "name": "Circle",
   "category": "service",
   "url": "https://www.circle.com",
+  "logo": "circle.png",
   "description": "Circle is the best platform to run an internet business using new standards for money powered by USD Coin (USDC)."
 }
 ```
@@ -24,5 +25,5 @@ Valid categories include: `exchange`, `wallet`, `platform`, `protocol`, `applica
 
 ### 2. High resolution logo file
 
-A high resolution logo file (A x B pixels) should be uploaded to the `logos`folder, and its name should be the `id` value on the json entry.
+A high resolution logo file (A x B pixels) should be uploaded to the `logos`folder, and its name should be the `logo` value on the json entry.
 
