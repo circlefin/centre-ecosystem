@@ -2,7 +2,7 @@
 
 The goal of this repository is to track the ecosystem of exchanges, wallets, protocols, platforms, applications and services that support [Centre](https://www.centre.io/) fiat tokens across all supported blockchains, most importantly [USD Coin (USDC)](https://www.centre.io/usdc).
 
-To add an exchange, wallet, protocol, platform, application or service, propose a PR including:
+To contribute to the ecosystem tracker, propose a PR including your exchange, wallet, protocol, platform, application or service. Follow the instructions below.
 
 ### 1. Entry to an `ecosystem.json` file
 
