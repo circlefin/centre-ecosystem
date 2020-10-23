@@ -21,13 +21,13 @@ An example entry is shown below:
 }
 ```
 
-Valid categories include: `exchange`, `wallet`, `platform`, `protocol`, `application`, `service`.
+Valid categories include: `exchange`, `wallet`, `platform`, `protocol`, `application`, `service`. If you want to propose a new category, please explain why on your PR.
 
-If your item supports a currency on multiple blockchains, please add one entry on each appropriate `ecosystem.json` file.
+If your item supports a currency (e.g. [USDC](https://www.centre.io/usdc)) on multiple blockchains, please add one entry on each appropriate `ecosystem.json` file.
 
-If your item spans across multiple categories, add one entry per category and consider using more specific values for `url` and `description`.
+If your item spans across multiple categories (e.g. `exchange` and `wallet`), add one entry per category and consider using more specific values for `url` and `description`.
 
 ### 2. High resolution logo file
 
-A high resolution logo file (A x B pixels) should be uploaded to the `logos`folder, and its name should be the `logo` value on the json entry.
+A high resolution logo file with transparent background should be uploaded to the `logos`folder, and its name should be the `logo` value on the json entry.
 
