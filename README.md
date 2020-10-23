@@ -6,7 +6,7 @@ To add an exchange, wallet, protocol, platform, application or service, propose 
 
 ### 1. Entry to an `ecosystem.json` file
 
-Entries should be added to the file in the appropriate currency (e.g. `usdc`) and blockchain (e.g. `ethereum`) path. If your item supports a currency on multiple blockchains, please add one entry on each appropriate `ecosystem.json` file.
+Entries should be added to the file in the appropriate currency (e.g. `usdc`) and blockchain (e.g. `ethereum`) path.
 
 An example entry is shown below:
 
@@ -22,6 +22,10 @@ An example entry is shown below:
 ```
 
 Valid categories include: `exchange`, `wallet`, `platform`, `protocol`, `application`, `service`.
+
+If your item supports a currency on multiple blockchains, please add one entry on each appropriate `ecosystem.json` file.
+
+If your item spans across multiple categories, add one entry per category and consider using more specific values for `url` and `description`.
 
 ### 2. High resolution logo file
 
