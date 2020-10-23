@@ -17,5 +17,5 @@ An example entry is shown below:
 }
 ```
 
-2. **High resolution logo file* - A high resolution logo file (A x B pixels) should be uploaded to the `logos`folder, and its name should be the `id` value on the json entry.
+2. **High resolution logo file** - A high resolution logo file (A x B pixels) should be uploaded to the `logos`folder, and its name should be the `id` value on the json entry.
 
