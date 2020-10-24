@@ -1,2 +1,12 @@
 {
+  "ecosystem": [
+    {
+      "id": "circle-1",
+      "name": "Circle APIs",
+      "category": "service",
+      "url": "https://www.circle.com/developers",
+      "logo": "circle.png",
+      "description": "Circle APIs bring the benefits of scalable USDC wallet infrastructure and global on- and off-ramps into an emerging global public payment and e-commerce ecosystem built on blockchains."
+    }
+  ]
 }
