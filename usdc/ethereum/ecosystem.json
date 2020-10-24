@@ -1,2 +1,20 @@
 {
+  "ecosystem": [
+    {
+      "id": "circle-1",
+      "name": "Circle Account",
+      "category": "application",
+      "url": "https://www.circle.com/businesses",
+      "logo": "circle.png",
+      "description": "The new global financial account built on USDC. Convert funds from 80+ countries into USDC. Securely store, make and receive on-chain USDC payments."
+    },
+    {
+      "id": "circle-2",
+      "name": "Circle APIs",
+      "category": "service",
+      "url": "https://www.circle.com/developers",
+      "logo": "circle.png",
+      "description": "Circle APIs bring the benefits of scalable USDC wallet infrastructure and global on- and off-ramps into an emerging global public payment and e-commerce ecosystem built on blockchains."
+    }
+  ]
 }
