@@ -4,7 +4,7 @@ The goal of this repository is to track the ecosystem of exchanges, wallets, pro
 
 To contribute to the ecosystem tracker, propose a PR including your exchange, wallet, protocol, platform, application or service. Follow the instructions below.
 
-### 1. Entry to an `ecosystem.json` file
+### 1. Add an entry to the appropriate `ecosystem.json` file
 
 Entries should be added to the file in the appropriate currency (e.g. `usdc`) and blockchain (e.g. `ethereum`) path.
 
@@ -27,7 +27,7 @@ If your item supports a currency (e.g. [USDC](https://www.centre.io/usdc)) on mu
 
 If your item spans across multiple categories (e.g. `exchange` and `wallet`), add one entry per category and consider using more specific values for `url` and `description`.
 
-### 2. High resolution logo file
+### 2. Upload a high resolution logo file
 
 A high resolution logo file with transparent background should be uploaded to the `logos`folder, and its name should be the `logo` value on the json entry.
 
