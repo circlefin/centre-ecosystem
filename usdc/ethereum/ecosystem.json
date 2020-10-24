@@ -15,6 +15,30 @@
       "url": "https://www.circle.com/developers",
       "logo": "circle.png",
       "description": "Circle APIs bring the benefits of scalable USDC wallet infrastructure and global on- and off-ramps into an emerging global public payment and e-commerce ecosystem built on blockchains."
+    },
+    {
+      "id": "coinbase-1",
+      "name": "Coinbase",
+      "category": "exchange",
+      "url": "https://www.coinbase.com/signup",
+      "logo": "circle.png",
+      "description": "Coinbase is a secure online platform for buying, selling, transferring, and storing USDC."
+    },
+    {
+      "id": "coinbase-2",
+      "name": "Coinbase Wallet",
+      "category": "wallet",
+      "url": "https://wallet.coinbase.com",
+      "logo": "coinbase-wallet.svg",
+      "description": "The easiest and most secure crypto wallet for USDC."
+    },
+    {
+      "id": "coinbase-3",
+      "name": "Coinbase Commerce",
+      "category": "service",
+      "url": "https://commerce.coinbase.com",
+      "logo": "coinbase-commerce.svg",
+      "description": "Learn how to securely accept USDC with Coinbase Commerce."
     }
   ]
 }
