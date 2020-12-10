@@ -1,4 +1,4 @@
 {
-  "testnet": [],
-  "mainnet": ["27T5c11dNMXjcRuko9CeUy3Wq41nFdH3tz9Qt4REzZMM"]
+  "testnet": ["2Dp4uY4BTeZonXatVn95cE3Ps7kPWqvkTxQjGDo4Vcpq", "54kEMXXt7wbbyuiZ5Ns5HjGywunZogW44GKPznsdsVkg"],
+  "mainnet": ["27T5c11dNMXjcRuko9CeUy3Wq41nFdH3tz9Qt4REzZMM", "28VqfqsUUBx59i8ruG2TuC5RekW5ZY3tsK4bSV59sXjn", "3emsAVdmGKERbHjmGfQ6oZ1e35dkf5iYcS6U4CPKFVaa"]
 }
