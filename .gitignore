@@ -1,9 +1,0 @@
-#intellij
-.iws
-*.iml
-.idea/*.xml
-.idea/*.name
-.idea/codeStyles/
-.idea/copyright/
-.idea/dataSources/
-.idea/libraries/
