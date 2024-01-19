@@ -39,6 +39,14 @@
       "url": "https://commerce.coinbase.com",
       "logo": "coinbase-commerce.svg",
       "description": "Learn how to securely accept USDC with Coinbase Commerce."
+    },
+    {
+      "id": "bridge-1",
+      "name": "Bridge Wallet",
+      "category": "wallet",
+      "url": "https://www.mtpelerin.com/bridge-wallet",
+      "logo": "bridge-logo.svg",
+      "description": "The wallet to invest in Bitcoin and Ethereum assets the easy way. Buy and sell at the market rates with no cost, zero hidden fees and full control over your cryptoassets."
     }
   ]
 }
