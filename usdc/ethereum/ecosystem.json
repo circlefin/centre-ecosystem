@@ -39,6 +39,14 @@
       "url": "https://commerce.coinbase.com",
       "logo": "coinbase-commerce.svg",
       "description": "Learn how to securely accept USDC with Coinbase Commerce."
+    },
+    {
+  "id": "paribu",
+  "name": "Paribu",
+  "category": "exchange",
+  "url": "https://www.paribu.com/",
+  "logo": "paribu.png",
+  "description": "Paribu is a cryptocurrency exchange serving users in Turkey with support for USDC on Ethereum."
     }
   ]
 }
