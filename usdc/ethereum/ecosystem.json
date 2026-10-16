@@ -39,6 +39,14 @@
       "url": "https://commerce.coinbase.com",
       "logo": "coinbase-commerce.svg",
       "description": "Learn how to securely accept USDC with Coinbase Commerce."
+    },
+        {
+      "id": "ambire",
+      "name": "Ambire Wallet",
+      "category": "wallet",
+      "url": "https://ambire.com",
+      "logo": "ambire.svg",
+      "description": "The web3 Wallet that Speaks Human, and USDC"
     }
   ]
 }
